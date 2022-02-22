@@ -1,5 +1,7 @@
 {
   "name": "native-test",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
